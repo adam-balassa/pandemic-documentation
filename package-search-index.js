@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Pandemic.Cards"},{"l":"Pandemic.Characters"},{"l":"Pandemic.Core"},{"l":"Pandemic.Exceptions"},{"l":"Pandemic.Players"},{"l":"Pandemic.Table"},{"l":"Pandemic.View"},{"l":"Pandemic.View.Components"},{"l":"Pandemic.View.Scenes"}]
